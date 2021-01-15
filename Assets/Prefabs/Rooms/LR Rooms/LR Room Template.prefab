@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &953495105498651938
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1674902408409104365}
+  - component: {fileID: 1743999169493355304}
+  m_Layer: 0
+  m_Name: LR Room Template
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1674902408409104365
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 953495105498651938}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1743999169493355304
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 953495105498651938}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63197ed6a4903d64c8ce474669a0fa29, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objects:
+  - {fileID: 3388210640434277660, guid: 85ec20d7b62269a4ebb2fa9db5d45f66, type: 3}
+  - {fileID: 3388210640434277660, guid: 1dc32e1029bb1ef45867e78344dce1ef, type: 3}
+  - {fileID: 3388210640434277660, guid: d6b9c8d344c555748a25e98306b35a61, type: 3}
+  - {fileID: 3388210640434277660, guid: 50b9d8d6d2e4e02419bad54bc5fbf465, type: 3}
+  - {fileID: 3388210640434277660, guid: a90bfb3c06752dc4094734028bb5a8da, type: 3}
+  - {fileID: 3388210640434277660, guid: 2a67a4a4d21f1db4281a85afb45ba94a, type: 3}
+  - {fileID: 3388210640434277660, guid: 1dd3c165c870f284f874b4dc597e4cc5, type: 3}
+  - {fileID: 3388210640434277660, guid: 1461b52646d82f2449fad9a20a9288c7, type: 3}
+  - {fileID: 3388210640434277660, guid: ee10f851ed02ba94fb8acccd5765eaf6, type: 3}
+  - {fileID: 3388210640434277660, guid: 3fcaa989ec4c26e41ad06c7d7f22403e, type: 3}
+  - {fileID: 3388210640434277660, guid: d340ea86796e1a44b99c747b1f0ffe2b, type: 3}
+  - {fileID: 3388210640434277660, guid: 08715d5236065bd4e996cae83bf67e27, type: 3}
+  - {fileID: 3388210640434277660, guid: 0ba8751667edc354884f7f54693e247f, type: 3}
+  - {fileID: 3388210640434277660, guid: 8595b9f25eda3fe4781a5f71b0df0b7c, type: 3}

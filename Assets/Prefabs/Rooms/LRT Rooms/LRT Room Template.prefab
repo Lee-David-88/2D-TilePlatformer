@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8437263971313758319
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2679879511090691182}
+  - component: {fileID: 4018395885411971995}
+  m_Layer: 0
+  m_Name: LRT Room Template
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2679879511090691182
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8437263971313758319}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4018395885411971995
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8437263971313758319}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63197ed6a4903d64c8ce474669a0fa29, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objects:
+  - {fileID: 7335423861002014278, guid: 57b3bf8424b50484cbaaa3ccc12db8b4, type: 3}
+  - {fileID: 7335423861002014278, guid: 22ced0fad42b3d547a230522b21f16cb, type: 3}
+  - {fileID: 7335423861002014278, guid: b9a45274788b2f948b8be345b974c82d, type: 3}
+  - {fileID: 7335423861002014278, guid: d1ec8f51f60e946469e0485759797c4e, type: 3}
+  - {fileID: 7335423861002014278, guid: b0f6d52e4840210489352b15d4d6029d, type: 3}
+  - {fileID: 7335423861002014278, guid: f01e57a2a949b154a9ffb71c8a8c56d0, type: 3}
+  - {fileID: 7335423861002014278, guid: 1ba4fcfbb3d8ccf4b9c3b066a8993156, type: 3}
+  - {fileID: 7335423861002014278, guid: baf3cd297d6f4e54787f63859a665660, type: 3}
+  - {fileID: 7335423861002014278, guid: e3caa9a7edc653449856c0ef13ccd40f, type: 3}
+  - {fileID: 7335423861002014278, guid: 8a86156eb6723ac4084199bea3121a4c, type: 3}
+  - {fileID: 7335423861002014278, guid: 388a32e0a983ed749b37f99eed8d130e, type: 3}

@@ -1,2 +1,2 @@
-# TileMania Platformer
+# Tile Platformer
 20 stages platformer
